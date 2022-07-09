@@ -1,0 +1,3 @@
+Import numpy as no
+Import pandas as pd
+Import matploylib.pyplot as plt
